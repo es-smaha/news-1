@@ -30,7 +30,7 @@
         <a class="nav-link" href="{{url('/posts')}}">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Home page</a>
+        <a class="nav-link" href="#">oallala</a>
       </li>
       @guest
       <li class="nav-item">
